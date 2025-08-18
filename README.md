@@ -1,7 +1,10 @@
 # React Lesson - Hoot Front-End
 
-**Hoot Image**
+<!-- **Hoot Image** -->
 ![HootImage](./public/images/HOOT_image.png)
+<p align="center">
+  <b>hoot image</b>
+</p>
 
 # About
 In this module, students will build the user interface for Hoot, a modern full-stack blogging application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). They will learn how to display and manage posts, create forms for posts and comments, and develop functionality for updating and deleting content.
