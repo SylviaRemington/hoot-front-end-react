@@ -57,6 +57,8 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 
 🚀 **The screenshots above depict the application after completing all styling in the Level Up lessons.**
 
+<br>
+
 # User stories
 **Below are the user stories we will implement within Hoot:**
 
@@ -69,6 +71,8 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 - As the author of a hoot, I should see a link to ‘Edit’ a hoot on the ‘Details’ page. Clicking on the link should direct me to an ‘Edit’ page where I can modify the hoot. Upon submitting the update, I should be redirected back to the ‘Details’ page.
 - As the author of a hoot, I should see a button to ‘Delete’ a hoot on the ‘Details’ page. Clicking the button should delete the hoot and redirect me back to the ‘List’ page.
 **💡 The above user stories give us a good idea of what CRUD operations a user might want to perform in our app.**
+
+<br>
 
 # Component hierarchy diagram
 After reviewing the user stories, our next step is to map out the component structure of our React app. For this, we’ll utilize a Component Hierarchy Diagram. This visual tool will act as an outline of the tree structure in our client-side app.
