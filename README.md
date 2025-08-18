@@ -9,7 +9,7 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 
 ## Setting the Stage
 ### Learning objective: 
-By the end of this lesson, students will be able to conceptualize this application’s features and high-level architecture.
+**By the end of this lesson, students will be able to conceptualize this application’s features and high-level architecture.**
 
 ## What we’re building - Hoot: Blogging for night owls
 
