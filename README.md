@@ -1,6 +1,7 @@
 # React Lesson - Hoot Front-End
 
-**Hoot Image**
+Hoot Image
+
 ![HootImage](./public/images/HOOT_image.png)
 
 ## About
