@@ -35,6 +35,7 @@ Students will also learn to apply CSS Modules for styling and building reusable 
   <b>Image of List Page</b>
 </p>
 
+<br>
 
 <!-- **Image of Details Page** -->
 <!-- ![DetailsPage](./public/images/DetailsPage.png) -->
@@ -43,6 +44,7 @@ Students will also learn to apply CSS Modules for styling and building reusable 
   <b>Image of Details Page</b>
 </p>
 
+<br>
 
 <!-- **Image of New Page** -->
 <!-- ![NewPage](./public/images/NewPage.png) -->
@@ -51,6 +53,7 @@ Students will also learn to apply CSS Modules for styling and building reusable 
   <b>Image of New Page</b>
 </p>
 
+<br>
 
 🚀 **The screenshots above depict the application after completing all styling in the Level Up lessons.**
 
