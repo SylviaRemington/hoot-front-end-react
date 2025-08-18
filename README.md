@@ -28,16 +28,28 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 
 - Take a look at the screenshots below for a sense of the core components that will go into this application:
 
-**Image of List Page**  
-![ListPage](./public/images/ListPage.png)
+<!-- **Image of List Page**   -->
+<!-- ![ListPage](./public/images/ListPage.png) -->
+<p align="center">
+  <img src="./public/images/ListPage.png" alt="List Page Image" /><br>
+  <b>Image of List Page</b>
+</p>
 
 
-**Image of Details Page**
-![DetailsPage](./public/images/DetailsPage.png)
+<!-- **Image of Details Page** -->
+<!-- ![DetailsPage](./public/images/DetailsPage.png) -->
+<p align="center">
+  <img src="./public/images/DetailsPage.png" alt="Details Page Image" /><br>
+  <b>Image of Details Page</b>
+</p>
 
 
-**Image of New Page**
-![NewPage](./public/images/NewPage.png)
+<!-- **Image of New Page** -->
+<!-- ![NewPage](./public/images/NewPage.png) -->
+<p align="center">
+  <img src="./public/images/NewPage.png" alt="New Page Image" /><br>
+  <b>Image of New Page</b>
+</p>
 
 
 🚀 **The screenshots above depict the application after completing all styling in the Level Up lessons.**
