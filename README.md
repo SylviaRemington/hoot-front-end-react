@@ -55,7 +55,10 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 
 <br>
 
-🚀 **The screenshots above depict the application after completing all styling in the Level Up lessons.**
+<!-- 🚀 **The screenshots above depict the application after completing all styling in the Level Up lessons.** -->
+<p align="center">
+  🚀 <b>The screenshots above depict the application after completing all styling in the Level Up lessons.</b>
+</p>
 
 <br>
 
@@ -83,9 +86,13 @@ Image of Component hierarchy diagram
 ![ComponentHierarchy](./public/images/ComponentHierarchy.png)
 
 **💡 Notice how most of our components will require a client-side route. This is because we treat these components as distinct pages in our app. Components not marked as requiring a route will be used as subcomponents making up the UI of a page.**
+
 <br>
+
 <hr>
+
 <br>
+
 # React JWT Auth Template
 
 ## About
