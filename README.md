@@ -83,9 +83,9 @@ Image of Component hierarchy diagram
 ![ComponentHierarchy](./public/images/ComponentHierarchy.png)
 
 **💡 Notice how most of our components will require a client-side route. This is because we treat these components as distinct pages in our app. Components not marked as requiring a route will be used as subcomponents making up the UI of a page.**
-
+<br>
 <hr>
-
+<br>
 # React JWT Auth Template
 
 ## About
