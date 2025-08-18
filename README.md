@@ -3,8 +3,8 @@
 <!-- **Hoot Image** -->
 <!-- ![HootImage](./public/images/HOOT_image.png) -->
 <p align="center">
-  <b>hoot image</b><br>
-  <img src="./public/images/HOOT_image.png" alt="HootImage" />
+  <img src="./public/images/HOOT_image.png" alt="HootImage" /><br>
+  <b>Hoot App Image</b>
 </p>
 
 # About
