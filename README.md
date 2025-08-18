@@ -1,6 +1,7 @@
 # React Lesson - Hoot Front-End
 
-Hoot Image
+**Hoot Image**
+![HootImage](./public/images/HOOT_image.png)
 
 ## About
 In this module, students will build the user interface for Hoot, a modern full-stack blogging application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). They will learn how to display and manage posts, create forms for posts and comments, and develop functionality for updating and deleting content.
@@ -11,7 +12,7 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 ### Learning objective: 
 **By the end of this lesson, students will be able to conceptualize this application’s features and high-level architecture.**
 
-## What we’re building - Hoot: Blogging for night owls
+## What we’re building - Hoot: Blogging for Night Owls
 
 - In this module, we will create a front-end blogging application using React and JWT Authentication. Pairing this front-end app with an Express API back-end and MongoDB database will yield a complete MERN Stack application.
 
@@ -23,11 +24,14 @@ Students will also learn to apply CSS Modules for styling and building reusable 
 
 - Take a look at the screenshots below for a sense of the core components that will go into this application:
 
-Image of List page
+Image of List Page
+![ListPage](./public/images/ListPage.png)
 
-Image of Details page
+Image of Details Page
+![DetailsPage](./public/images/DetailsPage.png)
 
-Image of New page
+Image of New Page
+![NewPage](./public/images/NewPage.png)
 
 🚀 The screenshots above depict the application after completing all styling in the Level Up lessons.
 
@@ -50,6 +54,7 @@ After reviewing the user stories, our next step is to map out the component stru
 **Below is the component hierarchy diagram for the MVP build of Hoot:**
 
 Image of Component hierarchy diagram
+![ComponentHierarchy](./public/images/ComponentHierarchy.png)
 
 **💡 Notice how most of our components will require a client-side route. This is because we treat these components as distinct pages in our app. Components not marked as requiring a route will be used as subcomponents making up the UI of a page.**
 
