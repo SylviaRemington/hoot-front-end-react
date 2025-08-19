@@ -46,7 +46,16 @@ const App = () => {
       </Routes>
     </>
   );
-  
+
 };
 
 export default App;
+
+
+/*
+In React, ternary operators allow you to conditionally display 
+different components or groups of components based on a specific 
+condition. In the code snippet above, we can use a ternary to both 
+conditionally render a specific element for the same path 
+(like on the / route) or gate groups of routes to specific user roles.
+*/
