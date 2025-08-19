@@ -31,3 +31,15 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+
+/*
+From HootList.jsx, go to NavBar.jsx (here):
+Head over to the NavBar component. We’ll need to add a new link here that allows a signed-in user to navigate to the new HootList component.
+
+Add a link to the new HootList component at /hoots.
+
+Next, let’s remove the welcome message and update the text content of our Dashboard <Link> to HOME.
+
+Finally, uppercase the text content of the remaining links to match the aesthetic we have going on.
+*/
